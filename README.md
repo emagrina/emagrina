@@ -16,31 +16,31 @@ I'm an 18 year old **web application development student** eager to learn and im
   ### Languages and Tools:
   
 <div style="display: inline_block"><br>
-  <a title="Go to Linkedin" href="https://www.linkedin.com/in/ern3stma/">
+  <a title="Go to Linkedin" target="_blank" href="https://www.linkedin.com/in/ern3stma/">
     <img align="center" alt="Icon of Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg">
   </a>
-  <a title="Go to VS Code" href="https://code.visualstudio.com/">
+  <a title="Go to VS Code" target="_blank" href="https://code.visualstudio.com/">
     <img align="center" alt="Icon of vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   </a>
-  <a title="Go to Java" href="https://www.java.com/es/">
+  <a title="Go to Java" target="_blank" href="https://www.java.com/es/">
     <img align="center" alt="Icon of Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   </a>
-  <a title="Go to JavaScript" href="https://www.javascript.com/">
+  <a title="Go to JavaScript" target="_blank" href="https://www.javascript.com/">
     <img align="center" alt="Icon of JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   </a>
-  <a title="Go to HTML5" href="https://www.w3schools.com/html/">
+  <a title="Go to HTML5" target="_blank" href="https://www.w3schools.com/html/">
     <img align="center" alt="Icon of HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   </a>
-  <a title="Go to CSS3" href="https://www.w3schools.com/Css/">
+  <a title="Go to CSS3" target="_blank" href="https://www.w3schools.com/Css/">
     <img align="center" alt="Icon of CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   </a>
-  <a title="Go to PHP" href="https://www.php.net/">
+  <a title="Go to PHP" target="_blank" href="https://www.php.net/">
     <img align="center" alt="Icon of PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   </a>
-  <a title="Go to MySQL" href="https://www.mysql.com/">
+  <a title="Go to MySQL" target="_blank" href="https://www.mysql.com/">
     <img align="center" alt="Icon of MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
   </a>  
-  <a title="Go to Linux" href="https://www.gnu.org/">
+  <a title="Go to Linux" target="_blank" href="https://www.gnu.org/">
     <img align="center" alt="Icon of Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   </a>  
 </div>
