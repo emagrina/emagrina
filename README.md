@@ -44,4 +44,3 @@ I'm an 18 year old **web application development student** eager to learn and im
     <img align="center" alt="Icon of Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   </a>  
 </div>
-
