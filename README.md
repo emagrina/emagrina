@@ -7,7 +7,7 @@ I'm an 18 year old **web application development student** eager to learn and im
 
 ***For me programming is an art***, the more time you spend the simpler you see it and the more improvements you can think of.
 
-<div align="center">
+<div align="center"  style="width: 50%;">
   <a href="https://github.com/ern3stma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ern3stma&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ern3stma&layout=compact&langs_count=10"/>
