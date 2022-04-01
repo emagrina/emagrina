@@ -9,8 +9,8 @@ I'm an 18 year old **web application development student** eager to learn and im
 
 <div align="center">
   <a href="https://github.com/ern3stma">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ern3stma&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ern3stma&layout=compact&langs_count=10"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ern3stma&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ern3stma&layout=compact&langs_count=10"/>
 </div>
   
   ### Languages and Tools:
