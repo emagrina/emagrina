@@ -8,15 +8,15 @@ I'm an 18 year old **web application development student** eager to learn and im
 ***For me programming is an art***, the more time you spend the simpler you see it and the more improvements you can think of.
 
 <div align="center">
-  <a href="https://github.com/ern3stma">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ern3stma&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ern3stma&layout=compact&langs_count=10"/>
+  <a href="https://github.com/emagrina">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emagrina&show_icons=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emagrina&layout=compact&langs_count=10"/>
 </div>
   
   ### Languages and Tools:
   
 <div style="display: inline_block"><br>
-  <a title="Go to Linkedin" target="_blank" href="https://www.linkedin.com/in/ern3stma/">
+  <a title="Go to Linkedin" target="_blank" href="https://www.linkedin.com/in/emagrina/">
     <img align="center" alt="Icon of Linkedin" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg">
   </a>
   <a title="Go to VS Code" target="_blank" href="https://code.visualstudio.com/">
