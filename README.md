@@ -29,6 +29,6 @@ think of.
 	</div>
 	<br>
   	<a title="My Skills" target="_blank" href="#">
-    	<img align="center" alt="Icon of HTML5" src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,js,sass,dotnet,cs,django,py,selenium,java,docker,mysql,bash,git,figma&theme=light&perline=9">
+    	<img align="center" alt="Icon of HTML5" src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,ts,js,sass,dotnet,cs,django,py,selenium,java,docker,mysql,git,figma&theme=light&perline=9">
   	</a>
 </div>
