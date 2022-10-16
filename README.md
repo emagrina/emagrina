@@ -26,9 +26,11 @@ think of.
   		<a title="Go to CodePen" target="_blank" href="https://codepen.io/ern3stma" style="margin: 9px 5px 0 5px">
     		<img align="center" alt="Icon of CodePen" src="https://skillicons.dev/icons?i=codepen&theme=light">
   		</a>
+		<img align="center" alt="Icon of CodePen" src="https://skillicons.dev/icons?i=figma&theme=light">
+		<img align="center" alt="Icon of CodePen" src="https://skillicons.dev/icons?i=idea&theme=light">
 	</div>
 	<br>
   	<a title="My Skills" target="_blank" href="#">
-    	<img align="center" alt="Icon of HTML5" src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,ts,js,sass,dotnet,cs,django,py,selenium,java,docker,mysql,git,figma&theme=light&perline=20">
+    	<img align="center" alt="Icon of HTML5" src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,ts,js,sass,dotnet,cs,django,py,selenium,java,docker,mysql,git,bash&theme=light&perline=20">
   	</a>
 </div>
