@@ -4,7 +4,7 @@
 
 <img src="banner.png" alt="banner">
 
-I'm an 18 year old **web application development student** eager to learn and improv.
+I'm an 19 year old **web application development student** eager to learn and improv.
 <br/>
 
 ***For me programming is an art***, the more time you spend the simpler you see it and the more improvements you can
