@@ -31,6 +31,6 @@ think of.
 	</div>
 	<br>
   	<a title="My Skills" target="_blank" href="#">
-    	<img align="center" alt="Icon of HTML5" src="https://skillicons.dev/icons?i=nextjs,mongodb,express,react,nodejs,vite,redux,rxjs,angular,ts,js,sass,styledcomponents,emotion,django,py,selenium,spring,java,kubernetes,docker,jenkins,git,mysql,bash&theme=light&perline=11">
+    	<img align="center" alt="Icon of HTML5" src="https://skillicons.dev/icons?i=nextjs,mongodb,express,react,nodejs,vite,redux,rxjs,angular,ts,js,sass,styledcomponents,emotion,django,py,selenium,spring,java,kubernetes,docker,jenkins,grafana,prometheus,git,mysql,bash&theme=light&perline=11">
   	</a>
 </div>
