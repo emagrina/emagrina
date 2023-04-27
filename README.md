@@ -34,4 +34,4 @@ full-time and part-time work. You can find more information about me on my
 <a href="https://emagrina.com/contact" target="_blank">💌 Let's talk!</a>
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=emagrina.emagrina)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=emagrina.emagrina&left_text=Visitors)
