@@ -14,7 +14,7 @@ I am a Frontend and DevOps developer, specialized in creating interactive web ap
 	
 | **Frontend** | **Backend** | **DevOps** |
 |--------------|-------------|------------|
-| <img alt="Icon Frontend" src="https://skillicons.dev/icons?i=next,react,angular,ts,js,threejs,jest,html&perline=4&theme=light"> | <img alt="Icon Backend" src="https://skillicons.dev/icons?i=express,nodejs,py,java,mysql,mongodb,firebase,bots&perline=4&theme=light"> | <img alt="Icon DevOps" src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,grafana,prometheus,git,github,bash&perline=4&theme=light"> |
+| <img alt="Icon Frontend" src="https://skillicons.dev/icons?i=next,react,angular,ts,js,threejs,jest,electron&perline=4&theme=light"> | <img alt="Icon Backend" src="https://skillicons.dev/icons?i=express,nodejs,py,java,mysql,mongodb,firebase,bots&perline=4&theme=light"> | <img alt="Icon DevOps" src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,grafana,prometheus,git,github,bash&perline=4&theme=light"> |
 
 </div>
 	
