@@ -27,7 +27,7 @@ I am a Frontend and DevOps developer, specialized in creating interactive web ap
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=emagrina&show_icons=true&count_private=true&locale=es&custom_title=My%20GitHub%20Stats&theme=graywhite"
+  srcset="https://github-readme-stats.vercel.app/api?username=emagrina&show_icons=true&count_private=true&locale=es&custom_title=My%20GitHub%20Stats&theme=default"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emagrina&show_icons=true" alt="My GitHub Stats"/>
@@ -39,7 +39,7 @@ I am a Frontend and DevOps developer, specialized in creating interactive web ap
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emagrina&layout=compact&langs_count=10&theme=graywhite"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emagrina&layout=compact&langs_count=10&theme=default"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emagrina&layout=compact&langs_count=10" alt="Most Used Lenguages"/>
