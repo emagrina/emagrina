@@ -21,9 +21,23 @@ I am a Frontend and DevOps developer, specialized in creating interactive web ap
 	
 ## GitHub Stats and Most Used Languages
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emagrina&show_icons=truecount_private=true&locale=es&custom_title=My%20GitHub%20Stats" alt="My GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emagrina&show_icons=true&count_private=true&locale=es&custom_title=My%20GitHub%20Stats&theme=graywhite#gh-dark-mode-only" alt="My GitHub Stats"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emagrina&layout=compact&langs_count=10" alt="Most Used Lenguages"/>
+
 </div>
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 
 ## Do you want to collaborate on a project?
 If you're looking for a Frontend or DevOps developer to collaborate on a project, 
