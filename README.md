@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-DQN7KnA12m4ZV7i+FxRnLW9xu4lGOaS7lLxisYwNKpzcq3wqz6U7o+Mpvz9Xp3q+" crossorigin="anonymous">
 
-![](./header.png)
+<img alt="Header" src="./.img/header_light.png#gh-light-mode-only">
+<img alt="Header" src="./.img/header_dark.png#gh-dark-mode-only"> 
 
 # Hello! I'm Ernest Magriñá :wave:
 
