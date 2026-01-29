@@ -1,59 +1,31 @@
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-DQN7KnA12m4ZV7i+FxRnLW9xu4lGOaS7lLxisYwNKpzcq3wqz6U7o+Mpvz9Xp3q+" crossorigin="anonymous">
+# Hi, I'm Ernest 👋
 
-<img alt="Header" src="./.img/header_light.png#gh-light-mode-only">
-<img alt="Header" src="./.img/header_dark.png#gh-dark-mode-only"> 
+📍 Tarragona ↔ Bournemouth ↔ Leipzig | ⚙️ Frontend Developer · systems mindset
 
-# Hello! I'm Ernest Magriñá :wave:
-
-I am a Frontend and DevOps developer, specialized in creating interactive web applications and implementing software infrastructures. My main focus is on developing attractive and functional user interfaces using technologies like React, Next.js, and Angular. Additionally, I have experience in implementing and managing cloud infrastructure platforms, using tools such as Kubernetes, Docker, Jenkins, and Grafana. While I also have some basic knowledge in Backend, my main focus is on creating exceptional user experiences and optimizing development and deployment processes.
-
-<!-- Actualmente trabajo como [título del trabajo] en [nombre de la empresa]. -->
-
-## My Skills
-
-<div align="center">
-	
-| **Frontend** | **Backend** | **DevOps** |
-|--------------|-------------|------------|
-|  <img alt="Iconos Frontend" src="https://skillicons.dev/icons?i=next,react,angular,ts&theme=light&perline=4">  | <img alt="Iconos Frontend" src="https://skillicons.dev/icons?i=net,cs,nodejs,mysql&theme=light&perline=4"> |  <img alt="Iconos Frontend" src="https://skillicons.dev/icons?i=kubernetes,docker,git,jenkins&theme=light&perline=4"> |
-
-</div>
-	
-## GitHub Stats and Most Used Languages
-<div align="center">
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=emagrina&show_icons=true&count_private=true&locale=es&custom_title=My%20GitHub%20Stats&theme=github_dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=emagrina&show_icons=true&count_private=true&locale=es&custom_title=My%20GitHub%20Stats&theme=default"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=emagrina&show_icons=true" alt="My GitHub Stats"/>
-</picture>
-
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emagrina&layout=compact&langs_count=10&theme=github_dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emagrina&layout=compact&langs_count=10&theme=default"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emagrina&layout=compact&langs_count=10" alt="Most Used Lenguages"/>
-</picture>
-</div>
-
-## Do you want to collaborate on a project?
-If you're looking for a Frontend or DevOps developer to collaborate on a project, 
-I'm interested in working on exciting projects. If you have a project you think 
-I could be useful for, don't hesitate to contact me. I'm available for both 
-full-time and part-time work. You can find more information about me on my 
-<a href="https://emagrina.com" target="_blank">personal website</a> or on my <a href="https://www.linkedin.com/in/emagrina/" target="_blank"><i class="fab fa-linkedin-in"></i> LinkedIn profile</a>. 
-
-<a href="https://emagrina.com/contact" target="_blank">💌 Let's talk!</a>
+![Angular](https://img.shields.io/badge/Angular-FDE2E4?style=for-the-badge&logo=angular&logoColor=DD0031)
+![React](https://img.shields.io/badge/React-E0F2FE?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-EDE9FE?style=for-the-badge&logo=nextdotjs&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-E0E7FF?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-FEF3C7?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-DCFCE7?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-FDE2E4?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![.NET](https://img.shields.io/badge/.NET-EDE9FE?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![MySQL](https://img.shields.io/badge/MySQL-E0F2FE?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=emagrina.emagrina&left_text=Visitors)
+## Current Project
+
+🧠 **[Aenari]()** — Currently in development  
+
+---
+
+## Work / Collaboration
+
+I’m open to:
+- Frontend-heavy products
+- Full-stack systems with real users
+- Tools, platforms, or startups that aren’t bullshit
+
+[![Website](https://img.shields.io/badge/Website-E0E7FF?style=for-the-badge)](https://emagrina.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E0E7FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/emagrina)
+[![Telegram](https://img.shields.io/badge/Telegram-E0E7FF?style=for-the-badge&logo=telegram&logoColor=229ED9)](https://t.me/emagrina)
