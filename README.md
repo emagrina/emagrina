@@ -15,6 +15,8 @@
 ## Current Project
 
 🧠 **[Aenari]()** — Currently in development  
+⚡️ **[Heiwa]()** — Currently in development 
+
 
 ---
 
