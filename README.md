@@ -1,6 +1,10 @@
 # Hi, I'm Ernest 👋
 
 📍 Tarragona ↔ Bournemouth ↔ Leipzig | ⚙️ Frontend Developer · systems mindset
+> *“I know of no better purpose in life than to perish in attempting the great and the impossible.”*  
+> — Friedrich Nietzsche
+
+
 
 ![Angular](https://img.shields.io/badge/Angular-FDE2E4?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![React](https://img.shields.io/badge/React-E0F2FE?style=for-the-badge&logo=react&logoColor=61DAFB)
