@@ -1,8 +1,7 @@
 # Hi, I'm Ernest 👋
 
 📍 Tarragona ↔ Bournemouth ↔ Leipzig | ⚙️ Frontend Developer · systems mindset
-> *“I know of no better purpose in life than to perish in attempting the great and the impossible.”*  
-> — Friedrich Nietzsche
+> *“I know of no better purpose in life than to perish in attempting the great and the impossible.”*  — Friedrich Nietzsche
 
 
 
