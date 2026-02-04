@@ -15,11 +15,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-E0F2FE?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 
-## Current Project
+## Project's
 
 🧠 **[Aenari]()** — Currently in development  
-⚡️ **[Heiwa]()** — Currently in development 
-
+⚡️ **[Heiwa]()** — Currently in development  
+🦝 **[TanukiBot](https://github.com/emagrina/tanuki-bot)** (Experimental) — An AI agent that generates full project structures via self-feedback, without writing code.
 
 ---
 
