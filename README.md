@@ -15,7 +15,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-E0F2FE?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 
-## Project's
+## Projects
 
 🧠 **[Aenari]()** — Currently in development  
 ⚡️ **[Heiwa]()** — Currently in development  
