@@ -1,9 +1,9 @@
 # Hi, I'm Ernest 👋
 
-📍 Tarragona ↔ Bournemouth ↔ Leipzig | ⚙️ Frontend Developer · systems mindset
-> *“I know of no better purpose in life than to perish in attempting the great and the impossible.”*  — Friedrich Nietzsche
+📍 Spain | ⚙️ Frontend Developer · Systems Mindset
 
-
+> *“I know of no better purpose in life than to perish in attempting the great and the impossible.”*  
+> — Friedrich Nietzsche
 
 ![Angular](https://img.shields.io/badge/Angular-FDE2E4?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![React](https://img.shields.io/badge/React-E0F2FE?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -14,21 +14,26 @@
 ![.NET](https://img.shields.io/badge/.NET-EDE9FE?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 ![MySQL](https://img.shields.io/badge/MySQL-E0F2FE?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-
 ## Projects
 
-🧠 **[Aenari]()** — Currently in development  
-⚡️ **[Heiwa]()** — Currently in development  
-🦝 **[TanukiBot](https://github.com/emagrina/tanuki-bot)** (Experimental) — An AI agent that generates full project structures via self-feedback, without writing code.
+🧠 **Aenari** — Coming soon.
+
+⚡ **Heiwa** — Currently in development.
+
+📚 **[Huginn](https://huginn.emagrina.com/)** — A social reading platform for tracking books, discovering new reads, writing reviews, and building a personal library.
+
+🍡 **[Mochi](https://github.com/emagrina/mochi)** — A desktop application for managing and monitoring multiple AI coding agents working in parallel.
 
 ---
 
 ## Work / Collaboration
 
-I’m open to:
+I’m interested in:
+
 - Frontend-heavy products
 - Full-stack systems with real users
-- Tools, platforms, or startups that aren’t bullshit
+- Developer tools and experimental software
+- Products, platforms, or startups that aren’t bullshit
 
 [![Website](https://img.shields.io/badge/Website-E0E7FF?style=for-the-badge)](https://emagrina.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E0E7FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/emagrina)
