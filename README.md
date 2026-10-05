@@ -24,6 +24,8 @@
 
 🍡 **[Mochi](https://github.com/emagrina/mochi)** — A desktop application for managing and monitoring multiple AI coding agents working in parallel.
 
+🌲 **[Mori](https://github.com/emagrina/mori)** — A fully offline, privacy-first media browser for safely exploring, previewing, filtering, and organizing images and videos from local folders and external drives.
+
 ---
 
 ## Work / Collaboration
