@@ -16,15 +16,21 @@
 
 ## Projects
 
-🧠 **Aenari** — Coming soon.
+You can find my projects, experiments, and applications at **[apps.emagrina.com](https://apps.emagrina.com)**.
 
-⚡ **Heiwa** — Currently in development.
+Some of the projects I'm currently building:
 
-📚 **[Huginn](https://huginn.emagrina.com/)** — A social reading platform for tracking books, discovering new reads, writing reviews, and building a personal library.
+🧠 **[Aenari](https://apps.emagrina.com)** — Coming soon.
 
-🍡 **[Mochi](https://github.com/emagrina/mochi)** — A desktop application for managing and monitoring multiple AI coding agents working in parallel.
+⚡ **[Heiwa](https://apps.emagrina.com)** — Currently in development.
 
-📁 **[Mori](https://github.com/emagrina/mori)** — A fully offline, privacy-first media browser for safely exploring, previewing, filtering, and organizing images and videos from local folders and external drives.
+📚 **[Huginn](https://apps.emagrina.com/huginn)** — A social reading platform for tracking books, discovering new reads, writing reviews, and building a personal library.
+
+🍡 **[Mochi](https://apps.emagrina.com/mochi)** — A desktop application for managing and monitoring multiple AI coding agents working in parallel.
+
+📁 **[Mori](https://apps.emagrina.com/mori)** — A fully offline, privacy-first media browser for safely exploring, previewing, filtering, and organizing images and videos from local folders and external drives.
+
+→ **[Explore all projects](https://apps.emagrina.com)**
 
 ---
 
@@ -38,5 +44,6 @@ I’m interested in:
 - Products, platforms, or startups that aren’t bullshit
 
 [![Website](https://img.shields.io/badge/Website-E0E7FF?style=for-the-badge)](https://emagrina.com)
+[![Apps](https://img.shields.io/badge/Apps-E0E7FF?style=for-the-badge)](https://apps.emagrina.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E0E7FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/emagrina)
 [![Telegram](https://img.shields.io/badge/Telegram-E0E7FF?style=for-the-badge&logo=telegram&logoColor=229ED9)](https://t.me/emagrina)
