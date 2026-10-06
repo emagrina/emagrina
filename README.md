@@ -28,7 +28,7 @@ Some of the projects I'm currently building:
 
 🍡 **[Mochi](https://apps.emagrina.com/mochi)** — A desktop application for managing and monitoring multiple AI coding agents working in parallel.
 
-📁 **[Mori](https://apps.emagrina.com/mori)** — A fully offline, privacy-first media browser for safely exploring, previewing, filtering, and organizing images and videos from local folders and external drives.
+📁 **[Mori](https://apps.emagrina.com/mroi)** — A fully offline, privacy-first media browser for safely exploring, previewing, filtering, and organizing images and videos from local folders and external drives.
 
 → **[Explore all projects](https://apps.emagrina.com)**
 
